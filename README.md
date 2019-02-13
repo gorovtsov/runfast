@@ -28,3 +28,8 @@ Swagger 2 (ui enabled)
 
 ### Databsase
 H2 in-memory database.
+
+### Swagger
+
+https://runfast.herokuapp.com/v2/api-docs - API docs
+https://runfast.herokuapp.com/swahher-ui.html - Swagger UI
